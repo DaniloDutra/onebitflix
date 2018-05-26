@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ​: MyString
+  favoritable: 
+  references{polymorphic}: MyString
+  user: 
+  references: MyString
+
+two:
+  ​: MyString
+  favoritable: 
+  references{polymorphic}: MyString
+  user: 
+  references: MyString
